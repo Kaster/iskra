@@ -1,7 +1,7 @@
 # Iskra
 ![Iskra logo](/assets/iskra-256.png?raw=true)
 
-General-purpose multi-paradigm education programming language for kids.
+General-purpose multi-paradigm, imperative education programming language for kids.
 
 ## Principles
 1. Simplicity
